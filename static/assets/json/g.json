@@ -20,13 +20,13 @@
   {
     "name": "Fancade",
     "link": "https://play.fancade.com",
-    "image": "/assets/media/icon/fancade.jpg",
+    "image": "/assets/media/icons/fancade.jpg",
     "categories": ["all"]
   },
   {
     "name": "HoloFunk",
     "link": "https://kbhgames.com/game/friday-night-funkin-hololive-funkin-non-canon-ina-week",
-    "image": "/assets/media/icon/holofunk.jpg",
+    "image": "/assets/media/icons/holofunk.jpg",
     "categories": ["all"]
   },
   {
