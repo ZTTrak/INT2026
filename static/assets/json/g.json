@@ -24,6 +24,12 @@
     "categories": ["all"]
   },
   {
+    "name": "HoloFunk",
+    "link": "https://kbhgames.com/game/friday-night-funkin-hololive-funkin-non-canon-ina-week",
+    "image": "/assets/media/icon/holofunk.jpg",
+    "categories": ["all"]
+  },
+  {
     "name": "Amazon Luna",
     "link": "https://luna.amazon.com/",
     "image": "/assets/media/icons/amazon-luna.webp",
