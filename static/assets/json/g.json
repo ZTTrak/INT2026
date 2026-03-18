@@ -24,9 +24,27 @@
     "categories": ["all"]
   },
   {
-    "name": "HoloFunk",
-    "link": "https://kbhgames.com/game/friday-night-funkin-hololive-funkin-non-canon-ina-week",
+    "name": "HoloFunk (Non-Canon Ina Week)",
+    "link": "https://fnf.run3.io/hololive-funkin-non-canon-ina-week/1/",
     "image": "/assets/media/icons/holofunk.jpg",
+    "categories": ["all"]
+  },
+  {
+    "name": "HoloFunk (DOOG)",
+    "link": "https://fnf.kdata1.com/doog-holofunk/1/",
+    "image": "/assets/media/icons/FNF-DOOG-Holofunk.jpg",
+    "categories": ["all"]
+  },
+   {
+    "name": "HoloFunk (Killer Scream)",
+    "link": "https://fnf.kdata1.com/killer-scream-remix/1/",
+    "image": "/assets/media/icons/fnf-killer-scream-remix-1.jpg",
+    "categories": ["all"]
+  },
+  {
+    "name": "Hinotori Rhythm",
+    "link": "https://html-classic.itch.zone/html/4569511/index.html",
+    "image": "/assets/media/icons/Hinotori-Rhythm.jpg",
     "categories": ["all"]
   },
   {
@@ -961,7 +979,7 @@
   },
   {
     "name": "Friday Night Funkin'",
-    "link": "https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html",
+    "link": "https://fnf.kdata1.com/2026/FNF/083/",
     "image": "/assets/media/icons/fnf.webp",
     "categories": ["all"]
   },
