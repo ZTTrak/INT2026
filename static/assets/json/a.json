@@ -24,6 +24,42 @@
     "categories": ["all"]
   },
   {
+    "name": "Lemniscate",
+    "link": "https://sites.google.com/view/lemniscatelegacy",
+    "image": "/assets/media/icons/lemniscate.webp",
+    "categories": ["all", "game", "media"]
+  },
+  {
+    "name": "Classroom 6x",
+    "link": "https://sites.google.com/view/classroom6x/",
+    "image": "/assets/media/icons/c6x.webp",
+    "categories": ["all", "game"]
+  },
+  {
+    "name": "Gimkit Bot Flooder",
+    "link": "https://gimkitbot.com/",
+    "image": "/assets/media/icons/gimkit.webp",
+    "categories": ["all", "game"]
+  },
+  {
+    "name": "Blooket Bot Flooder",
+    "link": "https://blooketbot.com/",
+    "image": "/assets/media/icons/bl.webp",
+    "categories": ["all", "game"]
+  },
+  {
+    "name": "Wayground Bot Flooder",
+    "link": "https://waygroundbot.com/",
+    "image": "/assets/media/icons/wayground.webp",
+    "categories": ["all", "game"]
+  },
+  {
+    "name": "Kahoot Bot Flooder",
+    "link": "https://kahootbot.app/",
+    "image": "/assets/media/icons/kahoot.webp",
+    "categories": ["all", "game"]
+  },
+  {
     "name": "Steam",
     "link": "https://store.steampowered.com/",
     "image": "/assets/media/icons/steam.webp",
@@ -420,6 +456,7 @@
   {
     "name": "EMovies.si",
     "link": "https://emovies.si",
+    "image": "/assets/media/icons/nologo.png",
     "categories": ["all", "media"]
   },
   {
@@ -526,6 +563,7 @@
   {
     "name": "FreedomGPT",
     "link": "https://chat.freedomgpt.com/",
+    "image": "/assets/media/icons/fgpt.webp",
     "categories": ["all", "ai"]
   },
   {
