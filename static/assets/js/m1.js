@@ -195,6 +195,10 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Wikipedia",
       icon: "/assets/media/favicon/wikipedia.png",
     },
+    MoguWare: {
+      name: "MoguWare",
+      icon: "/assets/media/icons/hololive.png",
+    },
     Britannica: {
       name: "Encyclopedia Britannica | Britannica",
       icon: "/assets/media/favicon/britannica.png",
