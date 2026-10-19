@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", event => {
 const SplashT = [
   "Over 8 Million Users since 2023",
   "Fastest growing proxy server",
-  "Check out discord.gg/moguware",
+  "OkaKoro or OkaShuba?",
   "Thanks for using the site",
   "How's your day going?",
   "Mogu Mogu, Okayu!",
